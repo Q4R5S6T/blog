@@ -1,6 +1,6 @@
 ---
-title: Welcome to the Zap Zone
+title: Welcome to the Zap Zone!
 ---
 
-## Not sure what this will be yet. 
+Just a little place for me to post thoughts, links, and productivity tips. Welcome to my slice of the web.
 
